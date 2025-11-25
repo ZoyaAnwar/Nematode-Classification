@@ -169,6 +169,4 @@ EfficientNetB3 achieves the highest performance and significantly exceeds the or
 ## Acknowledgments
 
 * Lu et al. (2021) I Nema Dataset
-* TensorFlow, Keras, and PyTorch frameworks
-
 
