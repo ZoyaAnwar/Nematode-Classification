@@ -27,19 +27,7 @@ This project improves model performance using two architectures:
 
 ## Dataset
 
-Structure expected by both notebooks:
-
-```
-I-NEMA/
-    train/
-        species_1/
-        species_2/
-        ...
-    val_preprocessed/    # For EfficientNetB3 notebook
-    val/                 # For ResNet101 notebook
-```
-
-Each species folder contains `.tif` microscope images.
+The dataset is publicly available at https://github.com/xuequanlu/I-Nema.
 
 ---
 
